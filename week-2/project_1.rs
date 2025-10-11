@@ -9,5 +9,5 @@ fn main(){
 	println! ("amount = {}", a);
 
 	let ci = a-p;
-	println!("compund interest of Ibeju Local Government is {}", ci);
+	println!("compound interest of Ibeju Local Government is {}", ci);
 }
