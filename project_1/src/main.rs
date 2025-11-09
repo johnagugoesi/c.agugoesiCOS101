@@ -38,19 +38,16 @@ let tcost = quantity * cost;
 println!("Total cost of purchase for {} amount of {}= {}",quantity, order, tcost);
 
 //discount
-
-let mut discount = 0.0;
 if tcost > 10000.0 {
     let x = 0.05 * tcost;
-     discount = tcost - x ;
-}
-
-println!("You've been given a discount of {} ",discount);
+     let discount = tcost - x ;
+     println!("You've been given a discount of {} ",discount);
 println!("Actual amount= {}", discount);
+}else{
+println!("No discount creditted");
+println!("Actual amount= {}", tcost);
 
-
-
-
+}
 
 
 }
