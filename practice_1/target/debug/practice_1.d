@@ -1,1 +1,0 @@
-/Users/johnagugoesi/Documents/COS101/PRACTICALS/c.agugoesiCOS101/week-6/practice_1/target/debug/practice_1: /Users/johnagugoesi/Documents/COS101/PRACTICALS/c.agugoesiCOS101/week-6/practice_1/src/main.rs
