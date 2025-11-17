@@ -1,5 +1,5 @@
 fn value(ch:Option<&char>) {
-    println!("Element of vector {:?}",n);
+    println!("Element of vector {:?}",ch);
 }
 
 

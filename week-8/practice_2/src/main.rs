@@ -1,5 +1,5 @@
 fn main() {
-    let v = vec!['C','O','M','P','U','T','E','R']
+    let v = vec!['C','O','M','P','U','T','E','R'];
 
     let mut in1 = String::new();
 

@@ -1,5 +1,5 @@
 fn main() {
-    let mut city :n Vec<String> = Vec::new();
+    let mut city : Vec<String> = Vec::new();
     println!("The city vector has element {}",city.len());
 
     let mut in1 = String::new();

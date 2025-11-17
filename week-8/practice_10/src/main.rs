@@ -5,6 +5,7 @@ fn main() {
 
 
 fn print(x:(i32,bool,f64)){
-    println!(age, is_male,cgpa)= x;
+    println!("inside print method");
+    let (age, is_male,cgpa)= x;
     println!("age is {} , is male? {}, cgpa is {}", age,is_male,cgpa);
 }
