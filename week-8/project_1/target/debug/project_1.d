@@ -1,0 +1,1 @@
+/Users/johnagugoesi/Documents/PAU/COS101/PRACTICALS/c.agugoesiCOS101/week-8/project_1/target/debug/project_1: /Users/johnagugoesi/Documents/PAU/COS101/PRACTICALS/c.agugoesiCOS101/week-8/project_1/src/main.rs
