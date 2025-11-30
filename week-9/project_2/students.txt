@@ -1,0 +1,5 @@
+Olufunke Morin | ACD2018001 | Accounting | 300
+Adams Abiyo | BCD2018002 | Economics | 200
+Jane Doe | CCD2018003 | Computer | 400
+Adekunle Gold | DDD2018004 | Electrical | 200
+Bassey Edemoh | EED2018005 | Mechanical | 300
